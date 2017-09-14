@@ -156,10 +156,10 @@
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/pages/DemoPage.page",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1639,
-            "modifiedTime": 1505371451000,
-            "changeTime": 1505371451000,
-            "contentHash": "8fad19eafb99c53c46174865dcb2130ec8c4c0dd"
+            "size": 1699,
+            "modifiedTime": 1505371687000,
+            "changeTime": 1505371687000,
+            "contentHash": "e6011e289da204988c9858cee2d31aff1bff31d7"
         }
     ],
     [
@@ -170,8 +170,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 284,
-            "modifiedTime": 1505371451000,
-            "changeTime": 1505371451000,
+            "modifiedTime": 1505371687000,
+            "changeTime": 1505371687000,
             "contentHash": "924a2d0a4f48c367044845bdb05e9be55067126a"
         }
     ],
