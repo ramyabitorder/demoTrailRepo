@@ -2,14 +2,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1505362663000,
             "changeTime": 1505362663000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1505362663000,
             "changeTime": 1505362663000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "a0d812304afa56524d50046839b3f7ea78163d77",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 68,
             "modifiedTime": 1505362663000,
             "changeTime": 1505362663000,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "bd112183869aad93462157f7176f55b03e68f20c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 927,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "cd7b8089de83cb1fadc4f54f69e77ff8816424b1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoControllerTests.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoControllerTests.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 651,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "bbe4cc9820e0c0f29076ca52d883403b4266338d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoControllerTests.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/classes/DemoControllerTests.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/pages",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1505362862000,
             "changeTime": 1505362862000,
             "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -156,12 +156,10 @@
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject/force-app/main/default/pages/DemoPage.page",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1542,
-            "modifiedTime": 1505362862000,
-            "changeTime": 1505362862000,
-            "contentHash": "c582b0ba9627a98a242a6c30da26c2b7ad838863",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 1585,
+            "modifiedTime": 1505370009000,
+            "changeTime": 1505370009000,
+            "contentHash": "5ec0a083ce9d5d33e9977c0bd506f202760089f8"
         }
     ],
     [
@@ -172,24 +170,22 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 284,
-            "modifiedTime": 1505362862000,
-            "changeTime": 1505362862000,
-            "contentHash": "924a2d0a4f48c367044845bdb05e9be55067126a",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1505370009000,
+            "changeTime": 1505370009000,
+            "contentHash": "924a2d0a4f48c367044845bdb05e9be55067126a"
         }
     ],
     [
         "/Users/FPSS/Documents/DX 13sep/myproject",
         {
-            "state": "u",
             "sourcePath": "/Users/FPSS/Documents/DX 13sep/myproject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1505362701000,
             "changeTime": 1505362701000,
             "contentHash": "9fa528aee0ff1bd9e092830a781587e98a97b1a3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
